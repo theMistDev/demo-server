@@ -1,4 +1,2 @@
-##WAF CONNECT
-This is the GitHub server repo of WafConnect.
-
-Remember to commit only to your dev repo.# demo-server
+##Linux Server
+This is the GitHub server repo of mistdev's demo ubuntu server instance
